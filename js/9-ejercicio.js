@@ -1,7 +1,6 @@
 // 9.- Escribe un programa que pida una frase y escriba las vocales que aparecen
 
 const phrase = prompt("Ingrese una frase");
-let phraseVocal;
 
 for (let i = 0; i < phrase.length; i++) {
   if (
